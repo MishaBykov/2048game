@@ -17,7 +17,7 @@ package ru.tproger.main;
 public class Constants {
 
 	/* Размер одной плитки */
-	public static final int CELL_SIZE = 64;
+	public static final int CELL_SIZE = 65;
 
 	/* Количество ячеек на экране по горизонтали и вертикали */
     public static final int COUNT_CELLS_X = 4;
